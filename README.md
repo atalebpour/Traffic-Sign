@@ -21,6 +21,7 @@ The goals / steps of this project are the following:
 
 ---
 ***Basic summary of the data set.***
+
 Numpy is used to calculate summary statistics of the available German traffic sign dataset:
 
 * The size of training set is 34799
@@ -64,6 +65,7 @@ My final model results were:
 * test set accuracy of 0.910
 
 ***Test a Model on New Images***
+
 The following five German traffic signs was found on the web and used to test model accuracy.
 
 ![alt text][image2] ![alt text][image3] ![alt text][image4] 
