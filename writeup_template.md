@@ -12,11 +12,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./Histogram.png "Histogram"
-[image2]: ./German Sign Images/1.jpg
-[image3]: ./German Sign Images/2.jpg
-[image4]: ./German Sign Images/3.jpg
-[image5]: ./German Sign Images/4.jpg
-[image6]: ./German Sign Images/5.jpg
+[image2]: ./German_Sign_mages/1.jpg
+[image3]: ./German_Sign_mages/2.jpg
+[image4]: ./German_Sign_mages/3.jpg
+[image5]: ./German_Sign_mages/4.jpg
+[image6]: ./German_Sign_mages/5.jpg
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ---
