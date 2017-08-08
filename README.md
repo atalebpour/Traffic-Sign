@@ -1,4 +1,4 @@
-##Build a Traffic Sign Recognition Project
+**Build a Traffic Sign Recognition Project**
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ---
-###Basic summary of the data set.
+***Basic summary of the data set.***
 Numpy is used to calculate summary statistics of the available German traffic sign dataset:
 
 * The size of training set is 34799
@@ -33,7 +33,7 @@ Below is an exploratory visualization of the dataset.
 
 ![Numer of each Image Type][image1]
 
-###Design and Test a Model Architecture
+***Design and Test a Model Architecture***
 
 1. The only pre-processing in this effort is normalizing the image data to create data with mean zero and equal variance.
 
@@ -63,7 +63,7 @@ My final model results were:
 * validation set accuracy of 0.932 
 * test set accuracy of 0.910
 
-###Test a Model on New Images
+***Test a Model on New Images***
 The following five German traffic signs was found on the web and used to test model accuracy.
 
 ![alt text][image2] ![alt text][image3] ![alt text][image4] 
@@ -86,7 +86,7 @@ Here are the results of the prediction:
 
 The model was able to correctly guess 2 of the 5 traffic signs (40% accuracy). Below indicates model's certainity in predicting each traffic sign:
 
-####For all image except for Image 5 (No Entry), the model was certain about the prediction. For instance, the below table shows the model prediction for Image 1 (Speed limit (60km/h)):
+For all image except for Image 5 (No Entry), the model was certain about the prediction. For instance, the below table shows the model prediction for Image 1 (Speed limit (60km/h)):
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
