@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 
 ## Rubric Points
 ---
-1. Basic summary of the data set.
+###1. Basic summary of the data set.
 Numpy is used to calculate summary statistics of the available German traffic sign dataset:
 
 * The size of training set is 34799
@@ -31,13 +31,11 @@ Numpy is used to calculate summary statistics of the available German traffic si
 * The shape of a traffic sign image is (32, 32, 3)
 * The number of unique classes/labels in the data set is 43
 
-2. Include an exploratory visualization of the dataset.
-
-Here is an exploratory visualization of the data set.
+Below is an exploratory visualization of the dataset.
 
 ![Numer of each Image Type][image1]
 
-###Design and Test a Model Architecture
+###2. Design and Test a Model Architecture
 
 ####1. Describe how you preprocessed the image data. What techniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc. (OPTIONAL: As described in the "Stand Out Suggestions" part of the rubric, if you generated additional data for training, describe why you decided to generate additional data, how you generated the data, and provide example images of the additional data. Then describe the characteristics of the augmented training set like number of images in the set, number of images for each class, etc.)
 
