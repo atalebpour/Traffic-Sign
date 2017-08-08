@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
+[image1]: ./Histogram.png "Histogram"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/placeholder.png "Traffic Sign 1"
@@ -35,7 +35,7 @@ Numpy is used to calculate summary statistics of the available German traffic si
 
 Here is an exploratory visualization of the data set.
 
-![alt text][Histogram.png]
+![Numer of each Image Type][image1]
 
 ###Design and Test a Model Architecture
 
