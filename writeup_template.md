@@ -1,4 +1,4 @@
-**Build a Traffic Sign Recognition Project**
+##Build a Traffic Sign Recognition Project
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -21,8 +21,6 @@ The goals / steps of this project are the following:
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ## Rubric Points
-###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
-
 ---
 1. Basic summary of the data set.
 Numpy is used to calculate summary statistics of the available German traffic sign dataset:
@@ -35,9 +33,9 @@ Numpy is used to calculate summary statistics of the available German traffic si
 
 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set.
 
-![alt text][image1]
+![alt text][Histogram.png]
 
 ###Design and Test a Model Architecture
 
